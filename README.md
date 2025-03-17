@@ -40,7 +40,7 @@ This project includes the basic CRUD activities of a student management system. 
 ## How to use ?
 - This project can be used by cloning the
 project to your local computer.
-- Clone the project using `https://github.com/t` terminal command.
+- Clone the project using `[https://github.com/t](https://github.com/khuzaym548/InsightX--Student-Management-System.git)` terminal command.
 ## Available Scripts
 
 In the project directory, you can run:

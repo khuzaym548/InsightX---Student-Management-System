@@ -1,1 +1,1 @@
-# InsightX---Student-Management-System
+# InsightX--Student-Management-System
